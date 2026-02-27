@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Location-Hanoi,%20Vietnam-red?style=for-the-badge&logo=google-maps" />
 </div>
 
-## <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)" width="50">&nbsp;***About Me - The Mixed - Virtual Reality Builder***
+## <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)" width="50">&nbsp;***About Me - The Mixed/ Virtual Reality Builder***
 
 <table border="0" align="center">
 <tr>
@@ -61,7 +61,7 @@ interface Developer {
 
 ### 🎯 **Quick Stats & Journey**
 - 💼 Official XR Developer at **VRTech** (since Jan 2025)
-- 🎓 3rd-year IT student at **PTIT University**
+- 🎓 3rd-year IT student at **PTIT**
 - 🎮 Unity developer since **Apr 2023**
 - 🛡️ Exploring the dark arts of **Malware Analysis**
 - 💬 Ask me about **C#, Unity, and Game Logic**
