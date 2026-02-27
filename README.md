@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=3000&lines=👋+Hi+There!+I'm+An+Long;🧑‍💻+XR+Engineer+%26+Developer;🚀+Building+the+Future+with+Metaverse;💡+Innovation+Through+Code;🌟+Welcome+to+my+Digital+Universe!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=5000&lines=👋+Hi+There!+I'm+An+Long;🧑‍💻+XR+Engineer+%26+Developer;🚀+Building+the+Future+with+Metaverse;💡+Innovation+Through+Code;🌟+Welcome+to+my+Digital+Universe!" />
 </h1>
 
 <!-- Interactive Banner with AI Theme -->
