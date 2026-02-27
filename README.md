@@ -62,7 +62,7 @@ interface Developer {
 ### 🎯 **Quick Stats & Journey**
 - 💼 Official XR Developer at **VRTech** (since Jan 2025)
 - 🎓 3rd-year IT student at **PTIT University**
-- 🎮 Unity developer since **Nov 2023**
+- 🎮 Unity developer since **Apr 2023**
 - 🛡️ Exploring the dark arts of **Malware Analysis**
 - 💬 Ask me about **C#, Unity, and Game Logic**
 
@@ -146,6 +146,7 @@ interface Developer {
 🕶️ XR Development  █████████████████    85%   Advanced
 🟥 C/C++           ███████████████      75%   Intermediate+
 🛡️ Malware Analysis████████████         60%   Exploring
+🐧 Linux           ███████████          55%   Exploring
 ```
 
 </div>
