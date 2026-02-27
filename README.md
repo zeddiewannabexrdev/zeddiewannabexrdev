@@ -225,7 +225,6 @@ interface Developer {
     ║  🧠 Currently thinking about:        ║
     ║  • Spatial Computing interfaces      ║
     ║  • Evasion techniques in Malware     ║
-    ║  • T1's next match draft             ║
     ║                                      ║
     ║  🍸 Currently craving:               ║
     ║  A perfectly mixed Boulevardier      ║
